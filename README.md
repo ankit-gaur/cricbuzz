@@ -15,7 +15,7 @@ An example of how to get live scores.
     
 ipl 
 ----
-A console based python application to show score of the current ipl match. Score is updated after every ball. The application can used as a sticky small window at the top of the screen.
+A terminal based python application to show score of the current ipl match. Score is updated after every ball. The application can used as a sticky small window at the top of the screen.
 
 License:
 --------
